@@ -1,0 +1,10 @@
+<suite name="Tests">
+    <test name = "Check registration">
+        <classes>
+            <class name="tests.Tests" />
+            <methods>
+                <include name = "check"/>
+            </methods>
+        </classes>
+    </test>
+</suite>
